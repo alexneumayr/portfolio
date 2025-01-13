@@ -15,15 +15,16 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-test-id="pageTitle" className="title">
-              Halo, saya Lutfhi Ramadhan
+              Hi, I'm Alex Neumayr
             </h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+              I'm currently participating in a course about Web Development.
+              Here you can find out more about me and the projects I'm doing.
+              Feel free to contact me anytime!
             </p>
 
             <Link href="/contact" className="cta">
-              Kontak Saya
+              Contact Alex
             </Link>
           </div>
 
